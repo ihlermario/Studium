@@ -1,0 +1,7 @@
+Die
+Der Nummer in der Variable Nummer ist: 2
+Die Nummer in der Variable Nummer ist: 2
+Die Nummer in der Variable Nummer ist: 2
+Die Nummer in der Variable Nummer ist: 2
+Die Nummer in der Variable Nummer ist: 2
+Die Nummer in der Variable Nummer ist: 54
