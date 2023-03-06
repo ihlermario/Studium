@@ -1,8 +1,16 @@
-Die
-Der Nummer in der Variable Nummer ist: 2
-Die Nummer in der Variable Nummer ist: 2
-Die Nummer in der Variable Nummer ist: 2
-Die Nummer in der Variable Nummer ist: 2
-Die Nummer in der Variable Nummer ist: 2
-Die Nummer in der Variable Nummer ist: 54
-git 
+               
+         ___
+        /   \
+    ___ \___/                
+   /   \I
+   \___/I         
+        I___
+        /   \
+        \___/
+        I
+        I
+    ____I____
+   /         \
+  (           )
+   \         /
+    \_______/
