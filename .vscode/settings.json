@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstdint": "cpp",
+        "stdio.h": "c"
+    },
+    "cmake.sourceDirectory": "/workspaces/Studium/Semester2/Hausaufgaben"
+}

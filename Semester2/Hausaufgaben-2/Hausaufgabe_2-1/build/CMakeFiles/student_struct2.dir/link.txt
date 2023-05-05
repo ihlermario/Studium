@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstudent_struct2.a CMakeFiles/student_struct2.dir/src/student.c.o
+/usr/bin/ranlib libstudent_struct2.a

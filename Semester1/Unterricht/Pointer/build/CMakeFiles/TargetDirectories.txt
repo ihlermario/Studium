@@ -1,0 +1,3 @@
+/workspaces/Studium/Semester1/Unterricht/Pointer/build/CMakeFiles/Pointers.dir
+/workspaces/Studium/Semester1/Unterricht/Pointer/build/CMakeFiles/edit_cache.dir
+/workspaces/Studium/Semester1/Unterricht/Pointer/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/CMakeFiles/student_struct.dir
+/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/CMakeFiles/student_struct_hw7_exec.dir
+/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/CMakeFiles/tests.dir
+/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/CMakeFiles/test.dir
+/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/CMakeFiles/edit_cache.dir
+/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/CMakeFiles/rebuild_cache.dir

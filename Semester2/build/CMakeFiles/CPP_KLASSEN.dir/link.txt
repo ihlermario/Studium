@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CPP_KLASSEN.dir/class.cpp.o -o CPP_KLASSEN 

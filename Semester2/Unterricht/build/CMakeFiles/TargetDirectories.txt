@@ -1,0 +1,6 @@
+/workspaces/Studium/Semester2/Unterricht/build/CMakeFiles/CPP_EINSTIEG.dir
+/workspaces/Studium/Semester2/Unterricht/build/CMakeFiles/CPP_KLASSEN.dir
+/workspaces/Studium/Semester2/Unterricht/build/CMakeFiles/malloc.dir
+/workspaces/Studium/Semester2/Unterricht/build/CMakeFiles/malloc_cpp.dir
+/workspaces/Studium/Semester2/Unterricht/build/CMakeFiles/edit_cache.dir
+/workspaces/Studium/Semester2/Unterricht/build/CMakeFiles/rebuild_cache.dir

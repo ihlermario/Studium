@@ -1,0 +1,6 @@
+/workspaces/Studium/Semester2/Hausaufgaben-1/build/CMakeFiles/Hausaufgabe1-2.dir
+/workspaces/Studium/Semester2/Hausaufgaben-1/build/CMakeFiles/Hausaufgabe1-3.dir
+/workspaces/Studium/Semester2/Hausaufgaben-1/build/CMakeFiles/Hausaufgabe1-4.dir
+/workspaces/Studium/Semester2/Hausaufgaben-1/build/CMakeFiles/Hausaufgabe1-5.dir
+/workspaces/Studium/Semester2/Hausaufgaben-1/build/CMakeFiles/edit_cache.dir
+/workspaces/Studium/Semester2/Hausaufgaben-1/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+if(EXISTS "/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/tests[1]_tests.cmake")
+  include("/workspaces/Studium/Semester2/Hausaufgaben-2/Hausaufgabe_2-1/build/tests[1]_tests.cmake")
+else()
+  add_test(tests_NOT_BUILT tests_NOT_BUILT)
+endif()

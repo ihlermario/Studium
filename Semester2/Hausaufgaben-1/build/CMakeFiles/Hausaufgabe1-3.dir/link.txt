@@ -1,0 +1,1 @@
+/usr/bin/cc -g "CMakeFiles/Hausaufgabe1-3.dir/Hausaufgabe_1-3.c.o" -o Hausaufgabe1-3 
